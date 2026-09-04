@@ -14,7 +14,7 @@ A simple and professional **C++ Object-Oriented Programming (OOP)** practical de
 - User-defined functions
 - Encapsulation
 
-This project is created as part of the **TY B.Tech. Artificial Intelligence and Machine Learning Practical Assignment**.
+This project is created as part of the **SY B.Tech. Artificial Intelligence and Machine Learning Practical Assignment**.
 
 ---
 
